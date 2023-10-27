@@ -1,4 +1,4 @@
-# 1-<html>
+<html>
     <title> information Fortnite</title>
 <body>
     <header>
@@ -38,7 +38,7 @@
 </table>
     </main>
     <footer style="background-color:black" >
-        <a href="https://ru.wikipedia.org/wiki/Fortnite">інформація по фортнайту<p>0986766168,0507251686</p></a>
+        <a href="https://ru.wikipedia.org/wiki/Fortnite">інформація по фортнайту</a><p style="background-color:purple">0986766168,0507251686</p>
     </footer>
 </body>
-</html>site-fortnite
+</html>
